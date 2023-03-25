@@ -97,3 +97,17 @@ if create_task_definition or create_service :
 #ecs_cliente.describe_task_definition( taskDefinition='tskdummylinear2') 
 
 #ecs_cliente.describe_services(cluster='dummylinear',services=["svcdummylinear"])
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
